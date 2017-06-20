@@ -168,7 +168,7 @@ created by [Bruno Santos](https://github.com/bmsantos).
 
 - [Facebook DataLoader Github repo](https://github.com/facebook/dataloader)
 - [Facebook DataLoader code walkthrough on YouTube](https://youtu.be/OQTnXNCDywA)
-- [Using DataLoader and GraphQL to batch requests](http://gajus.com/blog/9/using-dataloader-to-batch-requests)
+- [Using DataLoader and GraphQL to batch requests](https://github.com/gajus/gajus.com-blog/blob/master/posts/using-dataloader-to-batch-requests/index.md)
 
 ## Contributing
 
