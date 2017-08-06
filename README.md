@@ -5,7 +5,7 @@
 [![Apache licensed](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](https://github.com/engagingspaces/vertx-dataloader/blob/master/LICENSE)&nbsp;&nbsp;
 [ ![Download](https://api.bintray.com/packages/engagingspaces/maven/vertx-dataloader/images/download.svg) ](https://bintray.com/engagingspaces/maven/vertx-dataloader/_latestVersion)
 
-**Note**: This project is targeted to Vert.x users and has also been ported to pure java 8. See: [java-dataloader](https://github.com/graphql-java/java-dataloader) 
+**Note**: A pure java 8 (non-Vert.x) port of this project is now an official [graphql-java](https://github.com/graphql-java/awesome-graphql-java#batch-loading) project: [java-dataloader](https://github.com/graphql-java/java-dataloader) 
 
 ![vertx-dataloader-concepts](https://cloud.githubusercontent.com/assets/5111931/17837825/f5748bfc-67bd-11e6-9c7a-d407bb92c3d9.png)
 
